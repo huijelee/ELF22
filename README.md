@@ -9,10 +9,6 @@ Each post contains a subreddit name, a title, a body text, and two target senten
 
 We note that the dataset may contain offensive, sexual, or hateful language. The dataset can be remixed, transformed, and built upon its contents, except for tracking and re-identifying authors.
 
-
-We note that the dataset may contain offensive, sexual, or hateful language.
-The dataset can be remixed, transformed, and builded upon its contents, except for tracking and re-identifying authors.
-
 |     Type    |  Train | Validation |  Test |  Total |
 |-------------|--------|------------|-------|--------|
 | Overt |  2,331 |        166 |   340 |  2,837 |
@@ -47,7 +43,7 @@ The fields of post in json files are as follows:
 ## Reference
 
 ```
-@misc{lee2021elf22,
+@inproceedings{lee2021elf22,
       title={ELF22: A Context-based Counter Trolling Dataset to Combat Internet Trolls},
       author={Huije Lee and Young Ju NA and Hoyun Song and Jisu Shin and Jong C. Park},
       year={2022},
