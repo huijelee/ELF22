@@ -7,7 +7,7 @@ The dataset consists of 5,535 pairs, together with 1,151 'your response', divide
 
 Each post contains a subreddit name, a title, a body text, and two target sentences: a troll comment and the following response. Each post includes two labels: Type of Trolls (2 labels) and Counter Response Strategies (7 labels).
 
-We note that the dataset may contain offensive, sexual, or hateful language. The dataset can be remixed, transformed, and built upon its contents, except for tracking and re-identifying authors.
+We note that the dataset may contain offensive, sexual, or hateful language. The dataset can be remixed, transformed, and built upon its contents, except for tracking and re-identifying authors. The use of the dataset is considered as the user's consent to the ethical guidelines described in our paper.
 
 |     Type    |  Train | Validation |  Test |  Total |
 |-------------|--------|------------|-------|--------|
