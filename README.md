@@ -43,11 +43,14 @@ The fields of post in json files are as follows:
 ## Reference
 
 ```
-@inproceedings{lee2021elf22,
+@inproceedings{lee2022elf22,
       title={ELF22: A Context-based Counter Trolling Dataset to Combat Internet Trolls},
       author={Huije Lee and Young Ju NA and Hoyun Song and Jisu Shin and Jong C. Park},
+      pages={3530--3541},
       year={2022},
-      booktitle = {Proceedings of the 13th Language Resources and Evaluation Conference}
+      publisher = {European Language Resources Association},
+      booktitle = {Proceedings of the 13th Language Resources and Evaluation, {LREC} 2022, Marseille, France, June 20-25, 2022},
+      url={http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.378.pdf}
 }
 ```
 
