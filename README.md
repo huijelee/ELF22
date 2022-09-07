@@ -14,7 +14,7 @@ We note that the dataset may contain offensive, sexual, or hateful language. The
 | Overt |  2,331 |        166 |   340 |  2,837 |
 |  Covert |  3,020 |        407 |   422 |  3,849 |
 |              |      |       |  |     |
-|  Engage |  2,331 |        631 | 1,339 |  2,817 |
+|  Engage |  2,134 |        340 | 343 |  2,817 |
 |  Ignore |  216 |      10 | 35 | 261 |
 |  Expose|  1,131 |      75 | 135 | 1,359 |
 |  Challenge |  818 |      48 | 71 | 937 |
