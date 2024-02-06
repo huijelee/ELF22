@@ -16,7 +16,7 @@ The augmentation prompt is structured into three main components:
 
 
 ## Dataset Description
-The dataset consists of 8,253 pairs, divided into the three JSON files: train, validation, and test.
+The dataset consists of 8,253 pairs, divided into the three JSON files: `train.json`, `eval.json`, and `test.json`.
 Each post contains a subreddit name, a title, a body text, a troll comment, the following response and the strategy of the response. 
 
 | Type         | Train | Validation | Test | Total |
