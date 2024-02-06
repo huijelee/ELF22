@@ -4,7 +4,18 @@ The ELF22 2.0 dataset is the expanded version of the original ELF22 dataset adde
 The responses to the abusive comments in CADD datasets is augmented via OPENAI GPT-4 API, specifically gpt-4-1106-preview version.
 The dataset aims to provide a comprehensive toolkit with enabling more effetive strategies to countering internet trolls.
 
-## Dataset description
+## Augmentation Prompt
+
+The augmentation prompt is structured into three main components:
+
+1. **Description of the Counter-Response Task**: This part outlines the specific task at hand, detailed in `instruction_prompt.txt`, .
+
+2. **Backgrounds of Counter-Response Strategies**: This section provides backgrounds of the counter response strategies required for the task, detailed in `strategy_descriptions.json`.
+
+3. **Few-Shot Examples with Generated Responses**: This segment includes examples that demonstrate how the strategies can be applied to generate responses, detailed in `strategy_examples.json`.
+
+
+## Dataset Description
 The dataset consists of 8,253 pairs, divided into the three JSON files: train, validation, and test.
 Each post contains a subreddit name, a title, a body text, a troll comment, the following response and the strategy of the response. 
 
