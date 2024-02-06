@@ -2,7 +2,7 @@
 
 The ELF22 2.0 dataset is the expanded version of the original ELF22 dataset added the responses to abusive comments from <a rel="reference" href="https://aclanthology.org/2021.conll-1.43.pdf">CADD dataset</a>.
 The responses to the abusive comments in CADD datasets is augmented via OPENAI GPT-4 API, specifically gpt-4-1106-preview version.
-The dataset aims to provide a comprehensive toolkit with enabling more effetive strategies to countering internet trolls.
+The dataset aims to provide a comprehensive toolkit with enabling more effective strategies to countering internet trolls.
 
 ## Augmentation Prompt
 
